@@ -1,3 +1,3 @@
-:HL["/leihaozhe-portfolio-pages/_next/static/css/0dc6f178a8d4b984.css","style"]
-:HL["/leihaozhe-portfolio-pages/_next/static/css/4656ef07778d857a.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"elon-musk-personal-website","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"EcBWtroDF6Hhhh9_lwh3K"}
+:HL["/leihaozhe-portfolio-pages/_next/static/css/b36e7e85efdd4eeb.css","style"]
+:HL["/leihaozhe-portfolio-pages/_next/static/css/0aae46012f6ddba0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"elon-musk-personal-website","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"S-rwqs0_l49t4wRQCDuqd"}

@@ -1,2 +1,2 @@
-:HL["/leihaozhe-portfolio-pages/_next/static/css/0dc6f178a8d4b984.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"contact","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"EcBWtroDF6Hhhh9_lwh3K"}
+:HL["/leihaozhe-portfolio-pages/_next/static/css/b36e7e85efdd4eeb.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"contact","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"S-rwqs0_l49t4wRQCDuqd"}
