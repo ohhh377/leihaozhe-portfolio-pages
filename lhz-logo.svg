@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 40" fill="none">
+  <title>LHZ monogram</title>
+  <path
+    d="M7 6V33H19V6M19 20H33M33 6V33M31 6H49L31 33H49"
+    stroke="#1d1d1f"
+    stroke-width="3.2"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+</svg>
