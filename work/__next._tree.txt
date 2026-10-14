@@ -1,3 +1,3 @@
 :HL["/leihaozhe-portfolio-pages/_next/static/css/462a642e1d283b99.css","style"]
 :HL["/leihaozhe-portfolio-pages/_next/static/css/d0f662069129f4a4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"qJx6h_qtcY_1u98cdHGgV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WysYE9Ot1NkIDEbd03SHN"}
